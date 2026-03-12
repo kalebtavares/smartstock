@@ -23,5 +23,8 @@ public class Usuario{
     private String email;
     @Column(name = "senha", length = 10)
     private String senha;
+    @OneToMany(cascade = CascadeType.ALL)
+    @JoinColumn(name = "usuario_id", referencedColumnName = "id")
+    private List<Enderecos> enderecos;
 
 }
