@@ -1,4 +1,4 @@
-package com.smartstock.smartstock.infrastructure.entity;
+package com.smartstock.smartagendamento.infrastructure.entity;
 
 
 import jakarta.persistence.*;

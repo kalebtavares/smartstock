@@ -1,6 +1,6 @@
-package com.smartstock.smartstock.infrastructure.repository;
+package com.smartstock.smartagendamento.infrastructure.repository;
 
-import com.smartstock.smartstock.infrastructure.entity.Telefone;
+import com.smartstock.smartagendamento.infrastructure.entity.Telefone;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

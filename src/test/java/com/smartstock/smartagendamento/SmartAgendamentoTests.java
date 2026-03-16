@@ -1,10 +1,10 @@
-package com.smartstock.smartstock;
+package com.smartstock.smartagendamento;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class SmartstockApplicationTests {
+class SmartAgendamentoTests {
 
 	@Test
 	void contextLoads() {

@@ -1,13 +1,13 @@
-package com.smartstock.smartstock;
+package com.smartstock.smartagendamento;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SmartstockApplication {
+public class SmartAgendamento {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SmartstockApplication.class, args);
+		SpringApplication.run(SmartAgendamento.class, args);
 	}
 
 }

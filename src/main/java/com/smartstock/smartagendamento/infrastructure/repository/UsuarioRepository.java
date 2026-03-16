@@ -1,6 +1,6 @@
-package com.smartstock.smartstock.infrastructure.repository;
+package com.smartstock.smartagendamento.infrastructure.repository;
 
-import com.smartstock.smartstock.infrastructure.entity.Usuario;
+import com.smartstock.smartagendamento.infrastructure.entity.Usuario;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

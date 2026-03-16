@@ -1,4 +1,4 @@
-package com.smartstock.smartstock.infrastructure.exceptions;
+package com.smartstock.smartagendamento.infrastructure.exceptions;
 
 public class ConflictException extends RuntimeException{
 

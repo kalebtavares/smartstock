@@ -1,8 +1,8 @@
-package com.smartstock.smartstock.business;
+package com.smartstock.smartagendamento.business;
 
-import com.smartstock.smartstock.infrastructure.entity.Usuario;
-import com.smartstock.smartstock.infrastructure.exceptions.ConflictException;
-import com.smartstock.smartstock.infrastructure.repository.UsuarioRepository;
+import com.smartstock.smartagendamento.infrastructure.entity.Usuario;
+import com.smartstock.smartagendamento.infrastructure.exceptions.ConflictException;
+import com.smartstock.smartagendamento.infrastructure.repository.UsuarioRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
